@@ -66,7 +66,7 @@ This app tracks and records 'events' that have happened in any of my other apps 
 <h2 class='project_name'>ExternalApi</h2>
 <h3>What is it?</h3>
 <p>
-  This is simply a to-do list that is accessed directly through the monitor, hence why there is no screenshot.
+  This is simply a to-do list that is accessed directly through the terminal, hence why there is no screenshot.
 </p>
 
 <h3>Summary</h3>
