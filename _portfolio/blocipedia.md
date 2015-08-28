@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Blocipedia
-thumbnail-path: "img/blocipedia.png"
-short-description: Build a production quality SaaS app that allows users to create their own wikis.
+title: Bloccit
+thumbnail-path: "img/bloccit2.png"
+short-description: Basic blog app with topics, avatars, and comments.
 
 ---
 
