@@ -2,7 +2,7 @@
 layout: post
 title: Bloccit
 thumbnail-path: "img/bloccit2.png"
-short-description: Basic blog app with topics, avatars, and comments.
+short-description: Basic blog app with topics, avatars, and commentssadf.
 
 ---
 
